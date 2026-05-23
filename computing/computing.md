@@ -8,6 +8,7 @@
 - [how-to-make-collapsibles-in-markdown](how-to-make-collapsibles-in-markdown.md)
 - [how-to-make-links-that-point-to-local-folders](how-to-make-links-that-point-to-local-folders.md)
 - [how-to-center-images-in-markdown-via-html](how-to-center-images-in-markdown-via-html.md)
+- [How to create footnotes in Markdown](how-to-create-footnotes-in-md.md)
 
 ## Internet
 - [how-to-get-youtube-video-thumbnail-without-sites](how-to-get-youtube-video-thumbnail-without-sites.md)

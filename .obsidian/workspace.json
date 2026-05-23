@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computing/computing.md",
+                "file": "computing/how-to-make-links-that-point-to-local-folders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from computing"
+              "title": "Outgoing links from how-to-make-links-that-point-to-local-folders"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computing/computing.md",
+                "file": "computing/how-to-make-links-that-point-to-local-folders.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of computing"
+              "title": "Outline of how-to-make-links-that-point-to-local-folders"
             }
           }
         ]
@@ -185,12 +185,13 @@
   },
   "active": "88614bc60d605b81",
   "lastOpenFiles": [
-    "computing/how-to-get-youtube-video-thumbnail-without-sites.md",
+    "computing/how-to-create-footnotes-in-md.md",
     "computing/computing.md",
-    "computing/how-to-center-images-in-markdown-via-html.md",
-    "computing/how-to-make-links-that-point-to-local-folders.md",
-    "computing/html/how-to-make-inverted-ordered-lists.md",
     "README.md",
+    "computing/how-to-make-links-that-point-to-local-folders.md",
+    "computing/how-to-get-youtube-video-thumbnail-without-sites.md",
+    "computing/how-to-center-images-in-markdown-via-html.md",
+    "computing/html/how-to-make-inverted-ordered-lists.md",
     "unlinked.md",
     "computing/how-to-make-collapsibles-in-markdown.md",
     "computing/html/how-to-make-collapsibles-without-js.md",
