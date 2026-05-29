@@ -12,4 +12,5 @@
 
 ## Internet
 - [how-to-get-youtube-video-thumbnail-without-sites](how-to-get-youtube-video-thumbnail-without-sites.md)
-
+- [Watch Youtube via RSS Feed](youtube-rss.md)
+- 
