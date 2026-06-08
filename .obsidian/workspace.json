@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computing/computing.md",
+                "file": "stem/math.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "computing"
+              "title": "math"
             }
           }
         ]
@@ -185,18 +185,20 @@
   },
   "active": "88614bc60d605b81",
   "lastOpenFiles": [
-    "computing/how-to-make-collapsibles-in-markdown.md",
-    "computing/computing.md",
-    "computing/how-to-get-youtube-video-thumbnail-without-sites.md",
+    "stem/adicao-subtracao.md",
+    "stem/math.md",
     "computing/images-alignment-in-md.md",
-    "computing/youtube-rss.md",
+    "computing/computing.md",
     "computing/how-to-create-footnotes-in-md.md",
-    "README.md",
-    "computing/how-to-make-links-that-point-to-local-folders.md",
     "computing/how-to-center-images-in-markdown-via-html.md",
-    "computing/html/how-to-make-inverted-ordered-lists.md",
-    "unlinked.md",
+    "computing/how-to-make-links-that-point-to-local-folders.md",
+    "computing/how-to-make-collapsibles-in-markdown.md",
     "computing/html/how-to-make-collapsibles-without-js.md",
+    "computing/html/how-to-make-inverted-ordered-lists.md",
+    "computing/how-to-get-youtube-video-thumbnail-without-sites.md",
+    "computing/youtube-rss.md",
+    "README.md",
+    "unlinked.md",
     "html/how-to-make-inverted-ordered-lists.md",
     "html",
     "computing/README.md",
