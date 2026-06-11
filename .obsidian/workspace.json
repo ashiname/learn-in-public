@@ -13,25 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stem/adicao-subtracao.md",
+                "file": "computing/images-alignment-in-md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "adicao-subtracao"
+              "title": "images-alignment-in-md"
             }
           },
           {
             "id": "f034508d3e815590",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "humanities/portugues/portugues.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "portugues"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,22 +200,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "83895f142a92154b",
+  "active": "f034508d3e815590",
   "lastOpenFiles": [
+    "humanities/portugues/ortofonia-ortografia.md",
+    "humanities/portugues/portugues.md",
+    "humanities/portugues/encontros-vocalicos-consonantais.md",
+    "humanities/portugues/vogais-semivogais.md",
+    "humanities/portugues/letras-fonemas.md",
     "stem/adicao-subtracao.md",
-    "stem/math.md",
+    "humanities/portugues",
     "computing/images-alignment-in-md.md",
+    "stem/math.md",
     "computing/computing.md",
+    "computing/how-to-make-links-that-point-to-local-folders.md",
+    "README.md",
+    "unlinked.md",
     "computing/how-to-create-footnotes-in-md.md",
     "computing/how-to-center-images-in-markdown-via-html.md",
-    "computing/how-to-make-links-that-point-to-local-folders.md",
     "computing/how-to-make-collapsibles-in-markdown.md",
     "computing/html/how-to-make-collapsibles-without-js.md",
     "computing/html/how-to-make-inverted-ordered-lists.md",
     "computing/how-to-get-youtube-video-thumbnail-without-sites.md",
     "computing/youtube-rss.md",
-    "README.md",
-    "unlinked.md",
     "html/how-to-make-inverted-ordered-lists.md",
     "html",
     "computing/README.md",
